@@ -1,6 +1,5 @@
 import random
 import os
-import tkinter as tk
 
 
 def pick_word():
@@ -59,17 +58,7 @@ def game_flow(word, guess, lives):
 
 
 if __name__ == '__main__':
-    #GUI
-    root = tk.Tk()
-    root.title("Hangman")
-    root.configure(background="black")
-    label = tk.Label(root, text="Welcome to Hangman!",
-                     font=("Arial", 20, "bold",), fg="white", bg="black")
-    label.pack()
-
-    root.mainloop()
-
-    #GAME
+    #Initiallization
     start_words = pick_word()
     word_letters_list = start_words[0]
     guess_letters_list = start_words[1]

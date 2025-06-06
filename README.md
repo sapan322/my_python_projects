@@ -6,4 +6,4 @@ A collection of beginner-friendly Python projects, games, and problem-solving sc
 
 [Hangman](https://github.com/sapan322/my_python_projects/tree/main/Hangman) - A simple CLI word-guessing game.
 
-[Magic 8 ball - A fun script with random fortune responses.](https://github.com/sapan322/my_python_projects/tree/main/Magic%208%20ball)
+[Magic 8 ball](https://github.com/sapan322/my_python_projects/tree/main/Magic%208%20ball) - A fun script with random fortune responses.

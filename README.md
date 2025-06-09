@@ -11,5 +11,3 @@ A collection of beginner-friendly Python projects, games, and problem-solving sc
 
 [Group Anagrams
 ](https://github.com/sapan322/my_python_projects/tree/main/Group%20Anagrams) - This algorithm groups all the words which are anagrams of each other.
-
-[Find Missing Number](https://github.com/sapan322/my_python_projects/tree/main/Find%20Missing%20Number) - Find Missing Number using Python

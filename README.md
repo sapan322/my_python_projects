@@ -11,3 +11,5 @@ A collection of beginner-friendly Python projects, games, and problem-solving sc
 
 [Group Anagrams
 ](https://github.com/sapan322/my_python_projects/tree/main/Group%20Anagrams) - This algorithm groups all the words which are anagrams of each other.
+
+[Ryerson letter grade](https://github.com/sapan322/my_python_projects/tree/main/Ryerson%20letter%20grade) - Given the percentage grade, calculate and return the letter grade that would appear in the Ryerson grades transcript.

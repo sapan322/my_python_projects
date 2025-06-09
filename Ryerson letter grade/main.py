@@ -1,4 +1,5 @@
 def ryerson_letter_grade(pct):
+    """The function loop through dictionary and return grade, based on pct."""
     grade_dict = {
         "A+" : 90, "A" : 85, "A-" : 80,
         "B+" : 77, "B" : 73, "B-" : 70,
